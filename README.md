@@ -63,7 +63,7 @@
     <tr align="center">
         <td>
             <a href="https://github.com/LuisFAires/omegle-bot">
-            <img width="50px" src="https://raw.githubusercontent.com/LuisFAires/omegle-bot/master/logocropped.png">
+            <img width="50px" src="https://raw.githubusercontent.com/LuisFAires/omegle-bot/master/img/logocropped.png">
             <br>
             <span>omegle-bot</span>
             </a>
