@@ -2,7 +2,7 @@
 
 <div>
     <img align="right" width="20%" src="memoji.gif">
-    <img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=41B883&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Luis;I'm+from+Brazil+(%F0%9F%87%A7%F0%9F%87%B7);Lover+of+Technology+and+coding+%E2%9D%A4%EF%B8%8F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Be+welcome!+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=100&color=41B883&center=true&vCenter=true&multiline=true&width=500&height=150&lines=Hi+%F0%9F%91%8B%2C+my+name+is+Luis;Lover+of+Technology+and+coding+%E2%9D%A4%EF%B8%8F%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Be+welcome!+%F0%9F%A4%9D" alt="Typing SVG" />
 <div>
 <hr>
 <h3>I code things with: 👨‍💻</h3>
@@ -31,8 +31,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-    <img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
 </div>
 <hr>
 <p align="center">
