@@ -35,6 +35,7 @@
 <hr>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFAires&layout=compact&bg_color=ff&text_color=000000&title_color=41b883">
+    <br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisFAires&theme=vue">
 </p>
 
