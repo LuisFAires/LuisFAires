@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/location-Brazil RS 🗺️📍-fff?style=for-the-badge">
     <img src="https://img.shields.io/badge/hobbies-pseudo musician 🎸 🎵 🎶-fff?style=for-the-badge">
     <img src="https://img.shields.io/badge/zodiac sign(for those who believe)-Cancer🦀♋-fff?style=for-the-badge">
-    <img src="https://img.shields.io/badge/graduation-System Analisys and Development -- FAQI 🎓 (best in class🤓)-fff?style=for-the-badge">
+    <img src="https://img.shields.io/badge/graduation-Systems Analysis and Development -- FAQI 🎓 (best in class🤓)-fff?style=for-the-badge">
     <!-- <img src="https://img.shields.io/badge/current job-💼-fff?style=for-the-badge"> -->
 </div>
 <hr>
@@ -62,7 +62,8 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/LuisFAires/TriggerTaps.top"><img width="50px" src="https://luisfaires.github.io/TriggerTaps.top/img/CowBoyShoot.gif">
+    <a href="https://github.com/LuisFAires/TriggerTaps.top">
+    <img width="50px" src="https://luisfaires.github.io/TriggerTaps.top/img/CowBoyShoot.gif">
     <br>
     <span>TriggerTaps.top</span>
     </a>
