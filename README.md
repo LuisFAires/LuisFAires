@@ -1,9 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=41B883&height=90&section=header"/>
 
 <div>
-    <img align="right" width="20%" src="memoji.gif">
-    <img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=41B883&center=true&vCenter=true&width=550&height=75&lines=%F0%9F%91%8B+Hi+there!+my+name+is+Luis;Tech+and+coding+enthusiast+%F0%9F%98%8D%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Be+welcome!+%F0%9F%A4%9D" alt="Typing SVG" />
-    <img width="70%" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=41B883&center=true&vCenter=true&width=550&height=75&lines=%F0%9F%91%8B+Ol%C3%A1!+Meu+nome+%C3%A9+Luis;Entusiasta+de+tecnologia+e+codifica%C3%A7%C3%A3o%F0%9F%98%8D%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo!+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=41B883&center=true&vCenter=true&width=550&height=75&lines=%F0%9F%91%8B+Hi+there!+my+name+is+Luis;Tech+and+coding+enthusiast+%F0%9F%98%8D%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Be+welcome!+%F0%9F%A4%9D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=41B883&center=true&vCenter=true&width=550&height=75&lines=%F0%9F%91%8B+Ol%C3%A1!+Meu+nome+%C3%A9+Luis;Entusiasta+de+tecnologia+e+codifica%C3%A7%C3%A3o%F0%9F%98%8D%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Seja+bem-vindo!+%F0%9F%A4%9D" alt="Typing SVG" />
 </div>
 <hr>
 <h3>About me: / Sobre mim:</h3>
@@ -63,7 +62,7 @@
 <br>
 <div align="center">
     <a href="https://github.com/LuisFAires/TriggerTaps.top">
-    <img width="50px" src="https://luisfaires.github.io/TriggerTaps.top/img/CowBoyShoot.gif">
+    <img width="50px" src="https://luisfaires.github.io/TriggerTaps.top/img/ios/192.png">
     <br>
     <span>TriggerTaps.top</span>
     </a>
