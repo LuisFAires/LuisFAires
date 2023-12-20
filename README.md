@@ -61,10 +61,10 @@
 </div>
 <br>
 <div align="center">
-    <a href="https://github.com/LuisFAires/TriggerTaps.top">
-    <img width="50px" src="https://luisfaires.github.io/TriggerTaps.top/img/ios/192.png">
+    <a href="https://github.com/LuisFAires/TriggerTaps">
+    <img width="50px" src="https://luisfaires.github.io/TriggerTaps/img/ios/192.png">
     <br>
-    <span>TriggerTaps.top</span>
+    <span>TriggerTaps</span>
     </a>
 </div>
 <br>
