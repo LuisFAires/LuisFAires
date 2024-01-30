@@ -68,13 +68,6 @@
     </a>
 </div>
 <br>
-<div align="center">
-    <a href="https://github.com/LuisFAires/omegle-bot">
-    <img width="50px" src="https://raw.githubusercontent.com/LuisFAires/omegle-bot/master/img/logocropped.png">
-    <br>
-    <span>omegle-bot</span>
-    </a>
-</div>
 <hr>
 <h3>Projects I collaborated on: / Projetos que colaborei: 🤝👊</h3>
 <div align="center">
@@ -91,11 +84,9 @@
         <img src="https://img.shields.io/badge/Gmail - luisfillipe.lipe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <br>
-    <!-- 
-        <a href="https://www.instagram.com/luisfaires/">
-            <img src="https://img.shields.io/badge/Instagram - luisfaires-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-        </a>
-    -->
+    <a href="https://www.instagram.com/luisfaires/">
+        <img src="https://img.shields.io/badge/Instagram - luisfaires-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
 </div>
 <hr>
 <h3>Check out my resume: / Confira meu currículo: 📄🎓</h3>
