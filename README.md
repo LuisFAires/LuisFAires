@@ -69,11 +69,6 @@
 </div>
 <br>
 <hr>
-<h3>Projects I collaborated on: / Projetos que colaborei: 🤝👊</h3>
-<div align="center">
-    <a href="https://github.com/danielgatis/puppeteer-recaptcha-solver">Puppeteer Recaptcha Solver</a>
-</div>
-<hr>
 <h3>How to reach me: / Como me encontrar: 💬📫📧</h3>
 <div align="center">
     <a href="https://linkedin.com/in/luisfaires/">
