@@ -62,9 +62,17 @@
 <br>
 <div align="center">
     <a href="https://github.com/LuisFAires/TriggerTaps">
-    <img width="50px" src="https://luisfaires.github.io/TriggerTaps/img/ios/192.png">
+        <img width="50px" src="https://luisfaires.github.io/TriggerTaps/img/ios/192.png">
+        <br>
+        <span>TriggerTaps</span>
+    </a>
+</div>
+<br>
+<div align="center">
+    <a href="https://github.com/LuisFAires/instaimpulse">
+        <img width="50px" src="https://raw.githubusercontent.com/LuisFAires/instaimpulse/refs/heads/main/icon.png">
     <br>
-    <span>TriggerTaps</span>
+    <span>InstaImpulse</span>
     </a>
 </div>
 <br>
