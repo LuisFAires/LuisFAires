@@ -53,14 +53,6 @@
 <hr>
 <h3>Some of my projects: / Alguns dos meus projetos: 💡🚀</h3>
 <div align="center">
-    <a href="https://universodasmensagens.com">
-        <img width="50px" src="https://universodasmensagens.com/icon/logo.webp">
-        <br>
-        <span>universodasmensagens.com</span>
-    </a>
-</div>
-<br>
-<div align="center">
     <a href="https://github.com/LuisFAires/TriggerTaps">
         <img width="50px" src="https://luisfaires.github.io/TriggerTaps/img/ios/192.png">
         <br>
